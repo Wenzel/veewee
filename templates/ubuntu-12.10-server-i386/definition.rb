@@ -6,7 +6,7 @@ Veewee::Session.declare({
   :hostiocache => 'off',
   :os_type_id => 'Ubuntu',
   :iso_file => "ubuntu-12.10-server-i386.iso",
-  :iso_src => "http://releases.ubuntu.com/12.10/ubuntu-12.10-server-i386.iso",
+  :iso_src => "http://old-releases.ubuntu.com/releases/quantal/ubuntu-12.10-server-i386.iso",
   :iso_md5 => 'b3d4d4edfc8f291af0b83f8a2ba19a2f',
   :iso_download_timeout => "1000",
   :boot_wait => "4",

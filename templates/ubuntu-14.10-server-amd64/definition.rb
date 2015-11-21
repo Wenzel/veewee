@@ -6,7 +6,7 @@ Veewee::Session.declare({
   :hostiocache => 'off',
   :os_type_id => 'Ubuntu_64',
   :iso_file => "ubuntu-14.10-server-amd64.iso",
-  :iso_src => "http://releases.ubuntu.com/14.10/ubuntu-14.10-server-amd64.iso",
+  :iso_src => "http://old-releases.ubuntu.com/releases/utopic/ubuntu-14.10-server-amd64.iso",
   :iso_md5 => "91bd1cfba65417bfa04567e4f64b5c55",
   :iso_download_timeout => "1000",
   :boot_wait => "4",
